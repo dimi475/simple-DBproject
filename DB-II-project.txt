@@ -1,0 +1,11 @@
+DB II project:
+
+Create a data base for ship movements simulator - tables with geographical coordinates in degree-decimal format, which easy to call in another program (e.g. MATLAB). 
+Users : Admin, Teacher (Simulator_Supervisor) and Student (Simulator_User);
+Roles : Admin - sys DBA, Teacher - some permissions and roles to create tables, queries and views, Student - user.
+
+Tables: according to presented schema.
+
+SQL code for tables: in a separate .txt file.
+
+4 indexes and 10 queries in accordance with requirements in a separate .txt file, there will be synonyms and views for Student and Supervisor accounts.
